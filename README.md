@@ -161,7 +161,7 @@ Kemudian tambahkan CSS.
 
 Lalu lihat hasilnya
 
-![imgpraktikum2!](assets/img/praktikum/34.png)
+![imgpraktikum2!](assets/img/34.PNG)
 
 
 
