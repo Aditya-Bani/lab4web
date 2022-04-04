@@ -1,113 +1,130 @@
-| Nama      | Fajar Agung Nugroho |
+| Nama      | Aditya Bani Isro |
 | ----------- | ----------- |
-| NIM     | 312010448       |
+| NIM     | 312010134       |
 | Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum 4
-Membuka text editor, Saya menggunakan Sublime text
-![img1!](assets/img/praktikum/start.png)
+Membuka text editor, Saya menggunakan Visual Studio Code
+![img1!](assets/img/1.1.PNG)
 
-## 1. Membuat Box Element
-Tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+Periapan membuat dokumen HTML dengan nama file lab4_web.html seperti berikut.
 
-![img1!](assets/img/1/1.png)
+![img2!](assets/img/1.PNG)
 
-## 2. CSS Float Property
-Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut,
-Kemudian buka browser untuk melihat hasilnya.
+## Membuat Box Element
+Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
 
-![img2!](assets/img/2/2.png)
+![img2!](assets/img/2.PNG)
 
-## 3. Mengatur Clearfix Element
-Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
+## CSS Float Property
+Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
 
-Tambahkan element div lainnya seteleah div3 seperti berikut.
+![img2!](assets/img/2.PNG)
 
-![img3!](assets/img/3/3.png)
+Kemudian buka browser untuk melihat hasilnya
+
+![img3!](assets/img/3.PNG)
+
+## Mengatur Clearfix Element
+Clearfix digunakan untuk mengatur element setelah float element. Propery clear digunakan untuk mengaturnya.
+
+Tambahkan element div lainnya setelah div3 sebagai berikut.
+
+![img4!](assets/img/4.PNG)
 
 Kemudian atur property clear pada CSS, seperti berikut.
 
-![img3-1!](assets/img/3/3-1.png)
+![img5!](assets/img/5.PNG)
 
 Selanjutnya buka browser dan refresh kembali.
 
-![img3-2!](assets/img/3/3-2.png)
+![img6!](assets/img/6.PNG)
 
-## 4. Membuat Layout Sederhana
-Kita akan membuat layout web sederhana seperti gambar berikut. (tertera di modul praktikum)
+Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), dan amati perubahannya. 
 
-Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css
+## Membuat Layout Sederhana
+Buat folder baru dengan nama lab4_layout, kemudia buatlah file baru didalamnya dengan nama home.html dan file css dengan nama style.css
 
-![img4!](assets/img/4/4.png)
+![img7!](assets/img/7.PNG)
 
-Kemudian tulis kode berikut, Lalu buka browser dan lihat hasilnya.
+Kemudian tulis kode berikut.
 
-![img4-1!](assets/img/4/4-1.png)
+![img8!](assets/img/8.PNG)
+
+Kemudian buka browser dan lihat hasilnya.
+
+![img9!](assets/img/9.PNG)
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
-![img4-2!](assets/img/4/4-2.png)
+![img10!](assets/img/10.PNG)
 
-## 5. Membuat Navigasi
-Kemudian selanjutnya mengatur navigasi, Lalu lihat hasilnya.
+Kemudian lihat hasilnya pada browser.
 
-![img5!](assets/img/5/5.png)
+![img11!](assets/img/11.PNG)
 
-## 6. Membuat Hero Panel
-Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+## Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi
 
-![img6!](assets/img/6/6.png)
+![img12!](assets/img/12.PNG)
 
 Kemudian lihat hasilnya.
 
-![img6-1!](assets/img/6/6-1.png)
+![img13!](assets/img/13.PNG)
 
-## 7. Mengatur Layout Main dan Sidebar
+## Membuat Hero Panel
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![img14!](assets/img/14.PNG)
+
+![img15!](assets/img/15.PNG)
+
+![img16!](assets/img/16.PNG)
+
+## Mengatur Layout Main dan Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
-![img7!](assets/img/7/7.png)
+![img17!](assets/img/17.PNG)
 
-## 8. Membuat Sidebar Widget
+## Membuat Sidebar Widget
 Kemudian selanjutnya menambahkan element lain dalam sidebar.
 
-![img8!](assets/img/8/8.png)
+![img18!](assets/img/18.PNG)
+
+Kemudian tambahkan CSS.
+
+![img19!](assets/img/19.PNG)
+
+![img20!](assets/img/20.PNG)
+
+## Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+![img21!](assets/img/21.PNG)
+
+![img22!](assets/img/22.PNG)
+
+## Menambahkan Elemen lainnya pada Main Content
+
+![img23!](assets/img/23.PNG)
 
 Kemudian tambahkan CSS
 
-![img8-1!](assets/img/8/8-1.png)
+![img24!](assets/img/24.PNG)
 
-Lalu lihat hasilnya
+Lihat hasilnya di browser
 
-![img8-2!](assets/img/8/8-2.png)
+![img25!](assets/img/25.PNG)
 
-## 9. Mengatur Footer
-Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer & Lihat hasilnya
+## Menambahkan Content Artikel
 
-![img9!](assets/img/9/9.png)
+![img26!](assets/img/26.PNG)
 
-## 10. Menambahkan Elemen lainnya pada Main Content
+Kemudian Tambahkan CSS
 
-![img10!](assets/img/10/10.png)
+![img27!](assets/img/27.PNG)
 
-Kemudian tambahkan CSS.
-
-![img10-1!](assets/img/10/10-1.png)
-
-Lalu lihat hasilnya
-
-![img10-2!](assets/img/10/10-2.png)
-
-## 11. Menambahkan Content Artikel
-
-![img11!](assets/img/11/11.png)
-
-Kemudian tambahkan CSS.
-
-![img11-1!](assets/img/11/11-1.png)
-
-Lalu lihat hasilnya
-
-![img11-2!](assets/img/11/11-2.png)
+![img28!](assets/img/28.PNG)
 
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
@@ -118,29 +135,33 @@ Lalu lihat hasilnya
 ## Jawab
 ## 1. Buat html seperti berikut
 
-![imgpraktikum1!](assets/img/praktikum/1.png)
+![imgpraktikum1!](assets/img/29.PNG)
 
 Kemudian tambahkan CSS.
 
-![imgpraktikum1!](assets/img/praktikum/1-1.png)
+![imgpraktikum1!](assets/img/30.PNG)
 
 Lalu lihat hasilnya
 
-![imgpraktikum1!](assets/img/praktikum/1-2.png)
+![imgpraktikum1!](assets/img/31.PNG)
 
 ## 2. Buat html seperti berikut
 
-![imgpraktikum2!](assets/img/praktikum/2.png)
+![imgpraktikum2!](assets/img/32.PNG)
 
 Kemudian tambahkan CSS.
 
-![imgpraktikum2!](assets/img/praktikum/2-1.png)
+![imgpraktikum2!](assets/img/33-1.PNG)
 
-![imgpraktikum2!](assets/img/praktikum/2-2.png)
+![imgpraktikum2!](assets/img/33-2.PNG)
+
+![imgpraktikum2!](assets/img/33-3.PNG)
+
+![imgpraktikum2!](assets/img/33-4.PNG)
 
 Lalu lihat hasilnya
 
-![imgpraktikum2!](assets/img/praktikum/2-3.png)
+![imgpraktikum2!](assets/img/praktikum/34.png)
 
 
 
